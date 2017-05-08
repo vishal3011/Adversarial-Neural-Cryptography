@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  1 09:52:44 2016
 
-@author: liam
-
-Shows a basic model that creates an embedding layer from integer (categorical)
-inputs in Theano. Then below, the same thing in Keras!
-"""
 
 import theano
 import theano.tensor as T
